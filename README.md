@@ -1,4 +1,4 @@
-# Stock-Price-Dashboard-with-Forecasting
+[# Stock-Price-Dashboard-with-Forecasting
 An intermediate Python ML project that visualises stock price history, computes financial technical indicators, and forecasts future prices using Facebook Prophet. Features a full interactive dark-themed dashboard built with Plotly and Flask.
 
 🖥️ Dashboard Preview
@@ -99,4 +99,4 @@ How to structure a multi-endpoint Flask API for a data dashboard
 This is Intermediate Project 1 of 5 in the Python Data/ML learning roadmap.
 
 🗺️ Full Learning Roadmap
-Level#ProjectBeginner1EDA DashboardBeginner2House Price PredictorBeginner3Movie RecommenderBeginner4Sentiment AnalyzerBeginner5Study Buddy AI ChatbotIntermediate1Stock Price Dashboard ← You are hereIntermediate2Image Classifier (Deep Learning)Intermediate3RAG Document ChatbotIntermediate4Fake News DetectorIntermediate5Real-Time Data Pipeline
+Level#ProjectBeginner1EDA DashboardBeginner2House Price PredictorBeginner3Movie RecommenderBeginner4Sentiment AnalyzerBeginner5Study Buddy AI ChatbotIntermediate1Stock Price Dashboard ← You a](https://github.com/AahanKotian/Stock-Price-Dashboard-with-Forecasting)re hereIntermediate2Image Classifier (Deep Learning)Intermediate3RAG Document ChatbotIntermediate4Fake News DetectorIntermediate5Real-Time Data Pipeline
